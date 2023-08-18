@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dubmix&repo=github-readme-stats)](https://github.com/dubmix/github-readme-stats)
+
 <!--
 **dubmix/dubmix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
