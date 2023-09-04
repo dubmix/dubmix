@@ -1,5 +1,5 @@
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dubmix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=Makefile&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dubmix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=Makefile&layout=compact)
 
 <!--
 **dubmix/dubmix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
