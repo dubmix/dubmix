@@ -1,5 +1,5 @@
 # GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dubmix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dubmix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=Makefilelayout=compact&langs_count=10)
 
 # Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
