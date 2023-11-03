@@ -10,6 +10,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 # GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dubmix&theme=light&hide_border=false&include_all_commits=true&count_private=false&hide=Makefile&layout=compact&langs_count=10)
