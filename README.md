@@ -1,7 +1,7 @@
 # Hi there, I'm P-A 👋
 
 - 🔭 Currently working on **Webserv**, a reverse-engineered version of NGINX, and on **[scrapy](https://github.com/dubmix/scrapy)**, a personal project that involves using Discogs API and Telegram for improved marketplace notifications
-- 🌱 Currently learning **Python**, **TypeScript** and preparing for the **AWS Cloud Practitioner** certification
+- 🌱 Currently learning **Python**, **K8s** and preparing for the **AWS Cloud Practitioner** certification
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
