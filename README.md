@@ -1,5 +1,7 @@
 # Hi there, I'm P-A 👋
 
+Welcome to my GitHub!
+
 - 🔭 Currently working on **Webserv**, a reverse-engineered version of NGINX, and on **[scrapy](https://github.com/dubmix/scrapy)**, a personal project that involves using Discogs API and Telegram for improved marketplace notifications
 - 🌱 Currently learning **Python**, **K8s** and preparing for the **AWS Cloud Practitioner** certification
 
