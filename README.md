@@ -13,7 +13,7 @@ Welcome to my GitHub!
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 # GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dubmix&theme=light&hide_border=false&include_all_commits=true&count_private=false&hide=Makefile&layout=compact&langs_count=10)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dubmix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=Makefile&layout=compact&langs_count=10)
 
 <!--
 **dubmix/dubmix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
