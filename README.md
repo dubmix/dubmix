@@ -1,11 +1,11 @@
 # Hi there, I'm P-A 👋
 
-### Welcome to my GitHub!
+#### Welcome to my GitHub!
 
 - 🔭 Currently working on **Webserv**, a reverse-engineered version of NGINX, and on **[scrapy](https://github.com/dubmix/scrapy)**, a personal project that involves using Discogs API and Telegram for improved marketplace notifications
 - 🌱 Currently learning **Python**, **Go**, **K8s** and preparing for the **AWS Cloud Practitioner** certification
 
-### Take a look at some of my public **42 projects**:
+#### Take a look at some of my public **42 projects**:
 
 - **[CPP Modules](https://github.com/dubmix/42-CPP)** | Various coding exercices in C++
 - **[Inception](https://github.com/dubmix/42-Inception)** | Setting up a network of containers using Docker
