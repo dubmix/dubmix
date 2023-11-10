@@ -12,11 +12,10 @@ Welcome to my GitHub!
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-# GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dubmix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=Makefile&layout=compact&langs_count=10)
 
 <!--
-**dubmix/dubmix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GitHub Stats:
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dubmix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=Makefile&layout=compact&langs_count=10)
 
 Here are some ideas to get you started:
 
