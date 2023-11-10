@@ -5,6 +5,17 @@ Welcome to my GitHub!
 - 🔭 Currently working on **Webserv**, a reverse-engineered version of NGINX, and on **[scrapy](https://github.com/dubmix/scrapy)**, a personal project that involves using Discogs API and Telegram for improved marketplace notifications
 - 🌱 Currently learning **Python**, **K8s** and preparing for the **AWS Cloud Practitioner** certification
 
+Take a look at some of my public 42 projects:
+
+- **[CPP Modules](https://github.com/dubmix/42-CPP)** | Various coding exercices in C++
+- **[Inception](https://github.com/dubmix/42-Inception)** | Setting up a network of containers using Docker
+- **[miniRT](https://github.com/dubmix/42-miniRT)** | Building a Raytracer in C
+- **[Philosophers](https://github.com/dubmix/42-Philosophers)** | Multithreading in C to solve the dining philosophers problem
+- **[minishell](https://github.com/dubmix/42-minishell)** | Reverse-engineering bash
+- **[so_long](https://github.com/dubmix/42-so-long)** | A simple 2D game inspired by a famous franchise
+- **[minitalk](https://github.com/dubmix/42-minitalk)** | Small data exchange program using UNIX signals
+- **[push_swap](https://github.com/dubmix/42-push-swap)** | Building an algorithm to sort data using stacks, with a limited set of instructions
+
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
