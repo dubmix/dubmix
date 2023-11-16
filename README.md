@@ -10,7 +10,7 @@
 - **[CPP Modules](https://github.com/dubmix/42-CPP)** | Various coding exercices in C++
 - **[Inception](https://github.com/dubmix/42-Inception)** | Setting up a network of containers using Docker
 - **[miniRT](https://github.com/dubmix/42-miniRT)** | Building a Raytracer in C
-- **[Philosophers](https://github.com/dubmix/42-Philosophers)** | Multithreading in C to solve the dining philosophers problem
+- **[Philosophers](https://github.com/dubmix/42-Philosophers)** | Using process threading to solve the dining philosophers problem
 - **[minishell](https://github.com/dubmix/42-minishell)** | Reverse-engineering bash
 - **[so_long](https://github.com/dubmix/42-so-long)** | A simple 2D game inspired by a famous franchise
 - **[minitalk](https://github.com/dubmix/42-minitalk)** | Small data exchange program using UNIX signals
