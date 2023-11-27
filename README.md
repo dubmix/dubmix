@@ -2,8 +2,8 @@
 
 #### Welcome to my GitHub!
 
-- 🔭 Currently working on **Webserv**, a reverse-engineered version of NGINX, and on **[scrapy](https://github.com/dubmix/scrapy)**, a personal project that involves using Discogs API and Telegram for improved marketplace notifications
-- 🌱 Currently learning **Python**, **Go**, **K8s** and preparing for the **AWS Cloud Practitioner** certification
+- 🔭 Currently working on **Transcendence**, the ultimate project of the 42 core curriculum, and on **[scrapy](https://github.com/dubmix/scrapy)**, a personal project that involves using Discogs and Telegram's API for improved marketplace notifications
+- 🌱 Currently learning **Python**, **Prometheus**, **K8s** and preparing for the **AWS Cloud Practitioner** certification
 
 #### Take a look at some of my public **42 projects**:
 
