@@ -7,6 +7,7 @@
 
 #### Take a look at some of my public **42 projects**:
 
+- **[Webserv](https://github.com/dubmix/42-Webserv)** | Building an HTTP webserver from scratch
 - **[CPP Modules](https://github.com/dubmix/42-CPP)** | Various coding exercices in C++
 - **[Inception](https://github.com/dubmix/42-Inception)** | Setting up a network of containers using Docker
 - **[miniRT](https://github.com/dubmix/42-miniRT)** | Building a Raytracer in C
