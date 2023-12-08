@@ -3,7 +3,7 @@
 #### Welcome to my GitHub!
 
 - 🔭 Currently working on **Transcendence**, the ultimate project of the 42 core curriculum, and on **[scrapy](https://github.com/dubmix/scrapy)**, a personal project that involves using Discogs and Telegram's API for improved marketplace notifications
-- 🌱 Currently learning **Python**, **Prometheus**, **K8s** and preparing for the **AWS Cloud Practitioner** certification
+- 🌱 Currently learning **Python**, **Elasticsearch**, **K8s** and preparing for the **AWS Cloud Practitioner** certification
 
 #### Take a look at some of my public **42 projects**:
 
@@ -18,11 +18,14 @@
 - **[push_swap](https://github.com/dubmix/42-push-swap)** | Building an algorithm to sort data using stacks, with a limited set of instructions
 
 # Tech Stack:
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 
 
 <!--
