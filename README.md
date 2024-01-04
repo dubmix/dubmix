@@ -2,7 +2,7 @@
 
 #### Welcome to my GitHub!
 
-- 👨‍💻 Currently doing an internship at **SAP Signavio** in one of the **Product & Strategy** teams, as part of the **SAP Product Engineering** department
+- 👨‍💻 Currently doing an internship at **SAP Signavio** within the **Product & Strategy** teams, as part of the **SAP Product Engineering** department
 - 🔭 Currently working on **Transcendence**, the ultimate project of the 42 core curriculum, and on **[scrapy](https://github.com/dubmix/scrapy)**, a personal project that involves using Discogs and Telegram's API for improved marketplace notifications
 - 🌱 Currently learning **Python**, **Elasticsearch**, **K8s** and preparing for the **AWS Cloud Practitioner** certification
 
