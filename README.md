@@ -3,7 +3,7 @@
 #### Welcome to my GitHub!
 
 - 👨‍💻 Currently doing an internship at **SAP Signavio** within the **Product & Strategy** teams, as part of the **SAP Product Engineering** department
-- 🔭 Currently working on the **[SAP-SAM](https://github.com/signavio/sap-sam)** open-source project, Signavio's internal **Python SDK**, and on **[RAG-chatbot](https://github.com/dubmix/RAG-chatbot)**, a personal project aimed at creating a custom chatbot, using ChatGPT's API and Chroma as a vector database
+- 🔭 Currently working on the **[SAP-SAM](https://github.com/signavio/sap-sam)** open-source project, Signavio's internal **Python SDK**, and on **[RAG-chatbot](https://github.com/dubmix/RAG-chatbot)**, a personal project aimed at creating a custom app using ChatGPT's API and Chroma as a vector database
 - 🌱 Currently learning **LangChain**, **ElasticSearch**, **K8s**
 
 #### Take a look at some of my public **42 projects**:
