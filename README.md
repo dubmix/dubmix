@@ -2,9 +2,9 @@
 
 #### Welcome to my GitHub!
 
-- 👨‍💻 Currently doing an internship at **SAP Signavio** within the **Product & Strategy** teams, as part of the **SAP Product Engineering** department
-- 🔭 Currently working on the **[SAP-SAM](https://github.com/signavio/sap-sam)** open-source project, Signavio's internal **Python SDK**, and on **[RAG-chatbot](https://github.com/dubmix/RAG-chatbot)**, a personal project using ChatGPT's API and Chroma as a vector database
-- 🌱 Currently learning **LangChain**, **ElasticSearch**, **K8s**
+- 🎓 Graduate from **42 Berlin**
+- 👨‍💻 Currently working at **SAP Signavio** within the **Technology & Innovation** board area, as part of the **Product Engineering** department
+- 🔭 In my spare time, I like to work on **[RAG-chatbot](https://github.com/dubmix/RAG-chatbot)**, a personal project using ChatGPT's API and Chroma as a vector database
 
 #### Take a look at some of my public **42 projects**:
 
@@ -15,7 +15,6 @@
 - **[Philosophers](https://github.com/dubmix/42-Philosophers)** | Using process threading to solve the dining philosophers problem
 - **[minishell](https://github.com/dubmix/42-minishell)** | Reverse-engineering bash
 - **[so_long](https://github.com/dubmix/42-so-long)** | A simple 2D game inspired by a famous franchise
-- **[minitalk](https://github.com/dubmix/42-minitalk)** | Small data exchange program using UNIX signals
 - **[push_swap](https://github.com/dubmix/42-push-swap)** | Building an algorithm to sort data using stacks, with a limited set of instructions
 
 # Tech Stack:
