@@ -15,7 +15,6 @@
 - **[Philosophers](https://github.com/dubmix/42-Philosophers)** | Using process threading to solve the dining philosophers problem
 - **[minishell](https://github.com/dubmix/42-minishell)** | Reverse-engineering bash
 - **[so_long](https://github.com/dubmix/42-so-long)** | A simple 2D game inspired by a famous franchise
-- **[push_swap](https://github.com/dubmix/42-push-swap)** | Building an algorithm to sort data using stacks, with a limited set of instructions
 
 # Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
@@ -47,4 +46,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- **[push_swap](https://github.com/dubmix/42-push-swap)** | Building an algorithm to sort data using stacks, with a limited set of instructions
 -->
