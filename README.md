@@ -8,12 +8,10 @@
 
 #### Take a look at some of my public **42 projects**:
 
-- **[Webserv](https://github.com/dubmix/42-Webserv)** | Building an HTTP web server from scratch
-- **[CPP Modules](https://github.com/dubmix/42-CPP)** | Various coding exercices in C++
+- **[Webserv](https://github.com/dubmix/42-Webserv)** | Building a C++ HTTP web server from scratch
 - **[Inception](https://github.com/dubmix/42-Inception)** | Setting up a network of containers using Docker
 - **[miniRT](https://github.com/dubmix/42-miniRT)** | Building a Raytracer in C
-- **[Philosophers](https://github.com/dubmix/42-Philosophers)** | Using process threading to solve the dining philosophers problem
-- **[minishell](https://github.com/dubmix/42-minishell)** | Reverse-engineering bash
+- **[push_swap](https://github.com/dubmix/42-push-swap)** | Building an algorithm to sort data using stacks, with a limited set of instructions
 - **[so_long](https://github.com/dubmix/42-so-long)** | A simple 2D game inspired by a famous franchise
 
 # Tech Stack:
@@ -47,5 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- **[push_swap](https://github.com/dubmix/42-push-swap)** | Building an algorithm to sort data using stacks, with a limited set of instructions
 -->
