@@ -3,7 +3,7 @@
 #### Welcome to my GitHub!
 
 - 🎓 Graduate from **42 Berlin**
-- 👨‍💻 Currently working at **SAP Signavio** within the **Technology & Innovation** board area, as part of the **Product Engineering** department
+- 👨‍💻 Part of **Signavio Next**, the team responsible for leading innovation in the **Business Transformation** and **Process Management** areas at **SAP**
 - 🔭 In my spare time, I like to work on **[RAG-chatbot](https://github.com/dubmix/RAG-chatbot)**, a personal project using ChatGPT's API and Chroma as a vector database
 
 #### Take a look at some of my public **42 projects**:
@@ -11,7 +11,7 @@
 - **[Webserv](https://github.com/dubmix/42-Webserv)** | Building a C++ HTTP web server from scratch
 - **[Inception](https://github.com/dubmix/42-Inception)** | Setting up a network of containers using Docker
 - **[miniRT](https://github.com/dubmix/42-miniRT)** | Building a Raytracer in C
-- **[push_swap](https://github.com/dubmix/42-push-swap)** | Building an algorithm to sort data using stacks, with a limited set of instructions
+- **[push_swap](https://github.com/dubmix/42-push-swap)** | Building an algorithm to sort data using stacks
 - **[so_long](https://github.com/dubmix/42-so-long)** | A simple 2D game inspired by a famous franchise
 
 # Tech Stack:
