@@ -1,7 +1,5 @@
 # Hi there, I'm P-A 👋
 
-#### Welcome to my GitHub!
-
 - 🎓 Graduate from **[42](https://www.42network.org/)**
 - 👨‍💻 Full Stack Developer at **Signavio.NEXT**, the team responsible for leading innovation in the **Process Management** and **Business Transformation** domains at **[SAP](https://www.signavio.com/)**
 - 🔭 In my spare time, I like to work on **[RAG-chatbot](https://github.com/dubmix/RAG-chatbot)**, a personal project using **OpenAI**'s API and **Chroma** as a vector database
