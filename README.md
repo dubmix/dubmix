@@ -7,13 +7,6 @@
 - 🔭 In my spare time, I like to work on **[RAG-chatbot](https://github.com/dubmix/RAG-chatbot)**, a personal project using **OpenAI**'s API and **Chroma** as a vector database
 - 🌐 Check out my **[website](https://pdelannoy.com)** for the full story
 
-#### And here are some of my public **42 projects**:
-
-- **[Webserv](https://github.com/dubmix/42-Webserv)** | Building a C++ HTTP web server from scratch
-- **[Inception](https://github.com/dubmix/42-Inception)** | Setting up a network of containers using Docker
-- **[miniRT](https://github.com/dubmix/42-miniRT)** | Building a Raytracer in C
-- **[push_swap](https://github.com/dubmix/42-push-swap)** | Building an algorithm to sort data using stacks
-- **[so_long](https://github.com/dubmix/42-so-long)** | A simple 2D game inspired by a famous franchise
 
 # Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
@@ -47,4 +40,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+#### And here are some of my public **42 projects**:
+
+- **[Webserv](https://github.com/dubmix/42-Webserv)** | Building a C++ HTTP web server from scratch
+- **[Inception](https://github.com/dubmix/42-Inception)** | Setting up a network of containers using Docker
+- **[miniRT](https://github.com/dubmix/42-miniRT)** | Building a Raytracer in C
+- **[push_swap](https://github.com/dubmix/42-push-swap)** | Building an algorithm to sort data using stacks
+- **[so_long](https://github.com/dubmix/42-so-long)** | A simple 2D game inspired by a famous franchise
 -->
