@@ -2,7 +2,6 @@
 
 - 🎓 Graduate from **[42](https://www.42network.org/)**
 - 👨‍💻 Full Stack Developer at **Signavio.NEXT**, the team responsible for leading innovation in the **Process Management** and **Business Transformation** domains at **[SAP](https://www.signavio.com/)**
-- 🔭 In my spare time, I like to work on **[RAG-chatbot](https://github.com/dubmix/RAG-chatbot)**, a personal project using **OpenAI**'s API and **Chroma** as a vector database
 - 🌐 Check out my **[website](https://pdelannoy.com)** for the full story
 
 
@@ -37,6 +36,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 In my spare time, I like to work on **[RAG-chatbot](https://github.com/dubmix/RAG-chatbot)**, a personal project using **OpenAI**'s API and **Chroma** as a vector database
 
 #### And here are some of my public **42 projects**:
 
