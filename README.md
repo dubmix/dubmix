@@ -1,4 +1,4 @@
-# Hi there, I'm P-A 👋
+# Hi there, I'm Pierre 👋
 
 - 🎓 Graduate from **[42](https://www.42network.org/)**
 - 👨‍💻 Full Stack Developer at **Signavio.NEXT**, the team responsible for leading innovation in the **Process Management** and **Business Transformation** domains at **[SAP](https://www.signavio.com/)**
@@ -16,7 +16,6 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
