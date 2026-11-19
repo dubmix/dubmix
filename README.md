@@ -1,6 +1,5 @@
 # Hi there, I'm Pierre 👋
 
-- 🎓 Graduate from **[42](https://www.42network.org/)**
 - 👨‍💻 Full-Stack Engineer at **Signavio.NEXT**, the team responsible for leading innovation in the **Process Management** and **Business Transformation** domains at **[SAP](https://www.signavio.com/)**
 - 🌐 Check out my **[website](https://pdelannoy.com)** for the full story
 
